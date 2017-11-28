@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<pages>
+    <page>
+        <title>404 Page Not found</title>
+        <identifier>no-route</identifier>
+        <author>Filip</author>
+        <date>2017-11-11 18:40:22</date>
+        <active>1</active>
+        <content>
+            <![CDATA[<dl>
+        <dt>The page you requested was not found, and we have a fine guess why.</dt>
+        <dd>
+        <ul class="disc">
+        <li>If you typed the URL directly, please make sure the spelling is correct.</li>
+        <li>If you clicked on a link to get here, the link is outdated.</li>
+        </ul></dd>
+        </dl>
+        <dl>
+        <dt>What can you do?</dt>
+        <dd>Have no fear, help is near! There are many ways you can get back on track with Magento Store.</dd>
+        <dd>
+        <ul class="disc">
+        <li><a href="#" onclick="history.go(-1); return false;">Go back</a> to the previous page.</li>
+        <li>Use the search bar at the top of the page to search for your products.</li>
+        <li>Follow these links to get you back on track!<br /><a href="{{store url=""}}">Store Home</a> <span class="separator">|</span> <a href="{{store url="customer/account"}}">My Account</a></li></ul></dd></dl>
+        ]]>
+        </content>
+    </page>
+    <page>
+        <title>Home Page</title>
+        <identifier>home</identifier>
+        <author>Filip</author>
+        <date>2017-11-11 19:40:31</date>
+        <active>1</active>
+        <content>
+            <![CDATA[<dl>
+        <dt>The page you requested was not found, and we have a fine guess why.</dt>
+        <dd>
+        <ul class="disc">
+        <li>If you typed the URL directly, please make sure the spelling is correct.</li>
+        <li>If you clicked on a link to get here, the link is outdated.</li>
+        </ul></dd>
+        </dl>
+        <dl>
+        <dt>What can you do?</dt>
+        <dd>Have no fear, help is near! There are many ways you can get back on track with Magento Store.</dd>
+        <dd>
+        <ul class="disc">
+        <li><a href="#" onclick="history.go(-1); return false;">Go back</a> to the previous page.</li>
+        <li>Use the search bar at the top of the page to search for your products.</li>
+        <li>Follow these links to get you back on track!<br /><a href="{{store url=""}}">Store Home</a> <span class="separator">|</span> <a href="{{store url="customer/account"}}">My Account</a></li></ul></dd></dl>
+        ]]>
+        </content>
+    </page>
+    <page>
+        <title>Home Page</title>
+        <identifier>home</identifier>
+        <author>Filip</author>
+        <date>2017-11-11 19:40:31</date>
+        <active>1</active>
+        <content>
+            <![CDATA[]]>
+        </content>
+    </page>
+    <page>
+        <title>About us</title>
+        <identifier>about-us</identifier>
+        <author>Filip</author>
+        <date>2017-11-11 21:21:59</date>
+        <active>1</active>
+        <content>
+            <![CDATA[<div class="about-info cms-content">
+      <p class="cms-content-important">With more than 230 stores spanning 43 states and growing, Luma is a nationally recognized active wear manufacturer and retailer. We’re passionate about active lifestyles – and it goes way beyond apparel.</p>
+
+      <p>At Luma, wellness is a way of life. We don’t believe age, gender or past actions define you, only your ambition and desire for wholeness... today.</p>
+
+      <p>We differentiate ourselves through a combination of unique designs and styles merged with unequaled standards of quality and authenticity. Our founders have deep roots in yoga and health communities and our selections serve amateur practitioners and professional athletes alike.</p>
+
+      <ul style="list-style: none; margin-top: 20px; padding: 0;">
+          <li><a href="{{store url="contact"}}">Contact Luma</a></li>
+          <li><a href="{{store url="customer-service"}}">Customer Service</a></li>
+          <li><a href="{{store url="privacy-policy"}}">Luma Privacy Policy</a></li>
+          <li><a href="{{store url=""}}">Shop Luma</a></li>
+      </ul>
+    </div>]]>
+        </content>
+    </page>
+</pages>
