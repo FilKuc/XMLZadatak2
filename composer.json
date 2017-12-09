@@ -1,5 +1,5 @@
 {
-  "name": "filip/xmlZadatak",
+  "name": "filip/xml-zadatak",
   "require" : {
     "sabre/xml": ">=1.0",
     "php": "^5.6 || ^7.0"
